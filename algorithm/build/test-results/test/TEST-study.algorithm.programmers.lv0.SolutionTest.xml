@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="study.algorithm.programmers.lv0.SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-15T08:30:25" hostname="DESKTOP-8K7DVLB" time="0.036">
-  <properties/>
-  <testcase name="test()" classname="study.algorithm.programmers.lv0.SolutionTest" time="0.036"/>
-  <system-out><![CDATA[0
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
